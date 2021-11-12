@@ -1,0 +1,16 @@
+item {
+  id: 1
+  name: 'low smoke'
+}
+item {
+  id: 2
+  name: 'average smoke'
+}
+item {
+  id: 3
+  name: 'high smoke'
+}
+item {
+  id: 4
+  name: 'fire'
+}

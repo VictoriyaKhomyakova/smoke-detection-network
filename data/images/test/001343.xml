@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>001343.jpg</filename>
+	<path>D:\ML\Datasets\Images\test\001343.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>high smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>827</xmin>
+			<ymin>417</ymin>
+			<xmax>1083</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>low smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>911</xmin>
+			<ymin>1</ymin>
+			<xmax>1913</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>
